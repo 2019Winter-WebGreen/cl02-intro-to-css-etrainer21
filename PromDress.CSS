@@ -1,0 +1,28 @@
+/*
+* Emily Trainer
+* Due Date
+* PromDress
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    width: 80%;
+    margin: auto;
+    background-color:lightcyan;
+    font-family: monospace;        
+}
+h1 {background-color: darkblue; /*color for background*/
+color: orchid;}
+
+p{ color: navy;}
+
+#redtext { color: red;}
+
+.greentext {color: green;}
